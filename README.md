@@ -1,2 +1,2 @@
 # Terraform
-Using Terraform to provision infrastructures on AWS 
+Deploying a multi-tiered web application in AWS with Terraform
